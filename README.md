@@ -1,4 +1,4 @@
-#Tic Tac Toe
+#Tic Tac Toe game
 
 A basic Tic Tac Toe game built using HTML/JavaScript/CSS. No dependencies.
 
